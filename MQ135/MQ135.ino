@@ -24,6 +24,7 @@ void setup()
 void loop() {
   float ppm = gasSensor.getPPM();
   delay(1000);
+  digitalWrite(13,HIGH);
   Serial.print("CO2 ppm value : ");
   Serial.println(ppm);
 }
