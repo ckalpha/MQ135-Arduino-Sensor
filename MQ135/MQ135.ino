@@ -1,5 +1,5 @@
 /*
-Library Repository : https://github.com/GeorgK/MQ135
+Library Repository : https://github.com/ckalpha/MQ135
 Author : Damrongwit Nusuk
 Email : jack@racksync.com
 Website : http://www.racksync.com
