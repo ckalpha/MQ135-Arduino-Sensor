@@ -1,3 +1,3 @@
-# Arduino Code for Newbies
+# MQ-135 Air Quality / Gas Sensor
 
-All code are compatible with severals Arduino Board
+This code compatible with severals Arduino Board
