@@ -1,11 +1,9 @@
 /*
-This sketch is struct from articles : https://hackaday.io/project/3475-sniffing-trinket/log/12363-mq135-arduino-library
 Library Repository : https://github.com/GeorgK/MQ135
 Author : Damrongwit Nusuk
 Email : jack@racksync.com
 Website : http://www.racksync.com
 */
-
 
 #include "MQ135.h"
 #define ANALOGPIN A0    //  Define Analog PIN on Arduino Board
