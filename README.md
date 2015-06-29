@@ -7,3 +7,5 @@ MQ-135 Library: https://github.com/GeorgK/MQ135<br/>
 Author : Damrongwit Nusuk<br/>
 Email : jack@racksync.com<br/>
 Website : http://www.racksync.com<br/>
+
+<img src="http://www.haoyuelectronics.com/Attachment/MQ135/MQ135-1.jpg">
